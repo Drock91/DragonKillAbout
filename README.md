@@ -84,7 +84,7 @@ graph TD
 DragonKill includes a custom-built launcher created in **Visual Studio**. It allows players to:
 
 - Download the game client.
-- Check for new updates by comparing a `version.txt` file on **Google Drive**.
+- Check for new updates by comparing a `version.txt` file on **Google Drive** when trying to open game client.
 - Automatically download the latest build if an update is found.
 - Launch the game directly once up-to-date.
 
