@@ -79,6 +79,7 @@ graph TD
         K -->|Mint or Burn NFTs| D
     end
 ```
+---
 
 ## 🔮 Future Plans
 
@@ -96,11 +97,15 @@ graph TD
 
 🔜 DAO voting system for in-game world decisions
 
+---
+
 ## 🤝 Contributing
 
 We're building a team of passionate developers, artists, and designers. If you're interested in contributing apply @ [dragonkill.online](https://dragonkill.online/join-the-team/)
 
-All experience levels welcome. We especially need Unity programmers, pixel artists, blockchain devs, and UI/UX designers.
+All experience levels welcome. We especially need Unity programmers, 2D pixel artists and animators, game designers, blockchain developers, UI/UX designers, sound designers, lore writers, QA testers, and community managers.
+
+---
 
 ## 📬 Contact
 Project Maintainer: Derek Heinrichs
