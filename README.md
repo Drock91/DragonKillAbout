@@ -37,7 +37,7 @@ Players can exchange DKP on the XRPL decentralized exchange or convert it to in-
 |------------------------|-------------------------------------------------|
 | **Unity 2020.3**        | Game engine and client                         |
 | **Mirror Networking**   | Server-authority multiplayer                   |
-| **XRPL + Xumm Wallet**  | Blockchain integration and asset management    |
+| **XRPL + Xaman Wallet** | Blockchain integration and asset management    |
 | **Heroku + Express.js** | Game server controller and XRPL relay          |
 | **MongoDB**             | Player data, NFT metadata, and nexus tracking  |
 | **AWS S3**              | NFT assets and log storage                     |
