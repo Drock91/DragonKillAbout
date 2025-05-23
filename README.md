@@ -87,7 +87,8 @@ DragonKill includes a custom-built launcher created in **Visual Studio**. It all
 
 This ensures easy access for testers and a seamless update process without needing manual patching.
 
-🔮 Future Plans
+## 🔮 Future Plans
+
 ✅ Standalone Windows launcher
 
 🔄 Migrate from Windows to Linux containers
@@ -102,12 +103,13 @@ This ensures easy access for testers and a seamless update process without needi
 
 🔜 DAO voting system for in-game world decisions
 
-🤝 Contributing
+## 🤝 Contributing
+
 We're building a team of passionate developers, artists, and designers. If you're interested in contributing apply @ [dragonkill.online](https://dragonkill.online/join-the-team/)
 
 All experience levels welcome. We especially need Unity programmers, pixel artists, blockchain devs, and UI/UX designers.
 
-📬 Contact
+## 📬 Contact
 Project Maintainer: Derek Heinrichs
 📧 Email: customersupport@dragonkill.online
 🌐 Website: https://www.dragonkill.online
