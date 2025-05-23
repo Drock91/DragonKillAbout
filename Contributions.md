@@ -21,8 +21,6 @@ The DragonKill project would not be possible without the incredible work of open
 - Express/node.js programming
 - UI design
 - Combat system design
-  
-- Assisted with blockchain integration support
 
 ### **Michael Speer**  
 - Briefly served as system admin 
