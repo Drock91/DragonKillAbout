@@ -76,6 +76,7 @@ Special thanks to the early playtesters who provided feedback, bug reports, and 
 - **liltimmy**
 - **hehe**
 - **David**
+- **Grampy**
 - **Knight Kyle**
 - **Rui**
 - **Samewise**
