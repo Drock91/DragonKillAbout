@@ -1,6 +1,9 @@
-![DragonKill Logo](assets/logo.png)
+<p align="center">
+  <img src="Dragon1.png" alt="DragonKill Logo" width="10%">
+</p>
 
-# 🐉 DragonKill MMO Metaverse
+
+# DragonKill MMO Metaverse
 
 > A decentralized 2D play-to-earn MMORPG powered by Unity, Mirror Networking, and XRPL.
 
