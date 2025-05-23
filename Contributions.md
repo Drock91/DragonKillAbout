@@ -42,7 +42,7 @@ The DragonKill project would not be possible without the incredible work of open
 ### **Chris Betcher**  
 - Game design  
 - Tokenomics system  
-- Animation/UI design using Piskel
+- Animation/UI design using Aesprite and piskel
 
 ### **Nick Betcher**  
 - Early prototyping of core game code  
