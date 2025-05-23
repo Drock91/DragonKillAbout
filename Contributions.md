@@ -6,13 +6,23 @@ The DragonKill project would not be possible without the incredible work of open
 ## 👥 Project Contributors
 
 ### **Chris Betcher**  
-- Game design  
+- Concept game design  
 - Tokenomics system  
+- class/monster design 
 - Animation/UI design using Aesprite and piskel
 
 ### **Nick Betcher**  
 - Early prototyping of core game code  
 - Assisted in Unity gameplay loops
+
+### **Derek Heinrichs**  
+- Lead developer
+- C# programming
+- Express/node.js programming
+- UI design
+- Combat system design
+  
+- Assisted with blockchain integration support
 
 ### **Michael Speer**  
 - Briefly served as system admin 
