@@ -17,9 +17,9 @@ The DragonKill project would not be possible without the incredible work of open
 ## 🎨 Artwork Credits
 
 - **Tileset: "DawnLike"** by **dragondeplatino**  
-  _Used for core pixel environment assets_
+  _Used for core pixel environment and character assets_
 
-- **Piskel Designs** by **Chris Betcher**  
+- **Piskel/Aesprite Designs** by **Chris Betcher**  
   _Used for character design and UI animations_
 
 ---
@@ -49,13 +49,37 @@ The DragonKill project would not be possible without the incredible work of open
 - Assisted in Unity gameplay loops
 
 ### **Michael Speer**  
-- Briefly served as project manager  
+- Briefly served as system admin 
 - Contributed to utility tasks (art acquisition, Google Drive setup)  
-- Created early concept art
+- Conjured early concept art
 
 ### **Jordan Heinrichs**  
 - Developed and implemented the **airdrop system** for secure code distribution  
 - Assisted with blockchain integration support
+
+---
+
+## 🧪 Game Testers
+
+Special thanks to the early playtesters who provided feedback, bug reports, and gameplay insight:
+
+- **Vim**  
+- **Woltanac**  
+- **_der_F_**
+- **Jdub**
+- **Lifand**
+- **Star Corps**  
+- **Yoga Pratama**
+- **General**
+- **Jacob**
+- **Schweepy**
+- **liltimmy**
+- **hehe**
+- **David**
+- **Knight Kyle**
+- **Rui**
+- **Samewise**
+- **Crew17**
 
 ---
 
