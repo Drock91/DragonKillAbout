@@ -70,9 +70,22 @@ Special thanks to the early playtesters who provided feedback, bug reports, and 
 ---
 
 ## 🎨 Artwork Credits
+  **Tileset: "DawnLike"** by **dragondeplatino**  
+  _Used for core pixel environment and character assets._
 
-- **Tileset: "DawnLike"** by **dragondeplatino**  
-  _Used for core pixel environment and character assets_
+  The DawnLike tileset is a massive 16x16 universal roguelike asset pack, created by DragonDePlatino as a passion project originally inspired by NetHack. Over months of work, it evolved into a comprehensive pixel art collection featuring:
+
+  - 400+ unique character sprites (humanoids, animals, demons, elementals, and more)
+  - 800+ item sprites (weapons, books, potions, scrolls, and currency)
+  - Animated characters and environments
+  - Overworld tilesets, terrain, furniture, traps, and GUI assets
+
+  **Tileset: "Dragon Sprite Pack"** by **DeepDiveGameStudio**  
+    A set of hand-crafted dragon sprites created in pixel art style including:
+    
+  - 45 unique 16x16 pixel art dragon sprites
+  - Idle animations included for each sprite
+
 
 - **Piskel/Aesprite Designs** by **Chris Betcher**  
   _Used for character design and UI animations_
