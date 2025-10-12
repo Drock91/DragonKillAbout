@@ -62,21 +62,20 @@ Special thanks to the early playtesters who provided feedback, bug reports, and 
 ## 🎵 Audio Credits
 
 ### Mike Dedrick — Lead Composer & FMOD Integration
-- Dragon Fight Theme  
-- Forest Overworld Theme  
-- Forest Theme 1 (v5)  
-- Sewer (Whole Mix)  
+- Boss Theme 
+- Forest Theme  
+- Sewer Theme 
 - Arena Theme  
-- Guild Plot House Theme  
-- Lux Theme (v2x2)  
-- Shop Theme (v2x2)  
+- Guild Plot  Theme  
+- House Theme  
+- Itemshop Theme
 - Arcanium Nexus Theme  
-- Inn Theme (2x)  
+- Inn Theme 
 - Cinematic Part 1 – Intro  
 - Cinematic Part 2 – FULL (Final Battle)  
-- Cinematic Part 2 (Alt Mix)  
+
 - Arudine Theme  
-- Main Theme  
+- Login Theme  
 
 - **"Mountain Spirit"** by **Vadim Krakhmal**  
   _Used for tactician creation music_
