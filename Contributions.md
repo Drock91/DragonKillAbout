@@ -62,17 +62,19 @@ Special thanks to the early playtesters who provided feedback, bug reports, and 
 ## 🎵 Audio Credits
 
 ### Mike Dedrick — Lead Composer & FMOD Integration
-- Boss Theme 
-- Forest Theme  
-- Sewer Theme 
-- Arena Theme  
-- Guild Plot  Theme  
-- House Theme  
-- Itemshop Theme
-- Arcanium Nexus Theme  
-- Inn Theme 
-- Cinematic Part 1 – Intro  
-- Cinematic Part 2 – FULL (Final Battle)  
+- [Boss Theme](https://on.soundcloud.com/MCCbpbmyWEqYwhO13A)
+- [Forest Theme](https://on.soundcloud.com/77QX8iWKtOQqTPDCO5)
+- [Sewer Theme]
+- [Arena Theme]
+- [Guild Plot Theme]
+- [House Theme]
+- [Itemshop Theme]
+- [Arcanium Nexus Theme]
+- [Inn Theme](https://on.soundcloud.com/RCmY0wMGuYZc7v0uZa)
+- [Cinematic Part 1 – Intro]
+- [Cinematic Part 2 – FULL (Final Battle)]
+- [Arudine Theme](https://on.soundcloud.com/MCCbpbmyWEqYwhO13A)
+- [Login Theme](https://on.soundcloud.com/fGGWD5O9EByDBkmWBD)
 
 - Arudine Theme  
 - Login Theme  
