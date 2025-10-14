@@ -76,8 +76,6 @@ Special thanks to the early playtesters who provided feedback, bug reports, and 
 - [Arudine Theme](https://on.soundcloud.com/MCCbpbmyWEqYwhO13A)
 - [Login Theme](https://on.soundcloud.com/fGGWD5O9EByDBkmWBD)
 
-- Arudine Theme  
-- Login Theme  
 
 - **"Mountain Spirit"** by **Vadim Krakhmal**  
   _Used for tactician creation music_
