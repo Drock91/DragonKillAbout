@@ -83,6 +83,7 @@ Special thanks to the early playtesters who provided feedback, bug reports, and 
 - **"End This [Epic]"** by **@ContextSensitive__**  
   _Used for Gates of Aurdine music_
 - **Coin sounds** by Little Robot Sound Factory @ www.littlerobotsoundfactory.com
+- **Chest open, reward sound effect** by Gfx Sounds
 ---
 
 ## 🎨 Artwork Credits
