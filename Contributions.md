@@ -55,6 +55,7 @@ Special thanks to the early playtesters who provided feedback, bug reports, and 
 - **Rui**
 - **Samewise**
 - **Crew17**
+- **Erdrick_the_valiant**
 
 ---
 
